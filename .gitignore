@@ -1,0 +1,9 @@
+*
+!etc
+!GNUmakefile
+!Makefile
+!man
+!README
+!README.openssl
+!src
+!.gitignore
